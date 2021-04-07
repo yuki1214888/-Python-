@@ -3,5 +3,4 @@
 
  Anaconda
 
- Numpy
- Pandas
+ Numpy、Pandas
